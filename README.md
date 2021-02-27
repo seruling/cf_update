@@ -1,2 +1,4 @@
 # cf_update
-Update A record in CV
+Update A record in Cloudflare
+
+cron the script
